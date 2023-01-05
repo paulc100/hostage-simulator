@@ -1,0 +1,15 @@
+#JSGF V1.0;
+
+grammar button;
+
+public <final_rule> = <rotation> | <movement>;
+
+<rotation> = turn <direction>;
+
+<movement> = <intent> <action> ;
+
+<direction> = ( left | right);
+
+<intent> = ( enable | disable);
+
+<action> = ( walking | sprinting);

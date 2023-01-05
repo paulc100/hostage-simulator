@@ -1,0 +1,9 @@
+#JSGF V1.0;
+
+grammar check;
+
+public <final_rule> = <digit> <operation> <digit>;
+
+<operation> = ( add | subtract | divide | multiply);
+
+<digit> = ( one | two | three | four | five | six | seven | eight | nine | zero );
