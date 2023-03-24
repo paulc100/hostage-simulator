@@ -24,6 +24,10 @@
 				"Android",
 				"HoloLens"
 			]
+		},
+		{
+			"Name": "SpeechRecognition",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
