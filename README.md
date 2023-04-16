@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="./Content/Assets/UI/Logo.png" alt="Hostage Simulator" />
+    <img src="./Content/Assets/UI/WideLogo.png" alt="Hostage Simulator" />
 </p>
 <p align="center">
     <font size="5"><strong>Hostage Simulator</strong></font><br />
@@ -12,7 +12,7 @@
 ### Overview
 Hostage Simulator is a virtual reality shooter where you rescue a hostage from AI hostiles
 
-###Controls
+### Controls
 
 Guns:
 Use the button corresponding to the hand holding the weapon:
