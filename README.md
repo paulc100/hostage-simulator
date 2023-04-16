@@ -16,18 +16,18 @@ Hostage Simulator is a virtual reality shooter where you rescue a hostage from A
 
 Guns:
 Use the button corresponding to the hand holding the weapon:
-- Shoot: Trigger press down
-- Reload: Joystick press down
+- `Shoot`: Trigger press down
+- `Reload`: Joystick press down
 
 Movement:
 Move with your body or use the controllers:
-- Move: Joystick (Right)
-- Rotate: Joystick (Left)
-- Jump: A (Right)
+- `Move`: Joystick (Right)
+- `Rotate`: Joystick (Left)
+- `Jump`: A (Right)
 
 Other:
-- Menu: Y (Left) or B (Right)
-- Direct Max: X (Left)
+- `Menu`: Y (Left) or B (Right)
+- `Direct Max`: X (Left)
 
 ### Instructions
 - Grab the latest [release for windows](https://github.com/paulc100/hostage-simulator/releases)
